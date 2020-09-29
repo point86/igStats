@@ -8,9 +8,9 @@ It will then display a report that shows:
 - Firefox web browser (version ≥60).
 - Geckodriver (downloadable via https://github.com/mozilla/geckodriver/releases).
 - Python 3.x
-With additional packages (downloadable with pip):
--- Selenium
--- BeautifulSoup
+  With additional packages (downloadable with pip):
+  - Selenium
+  - BeautifulSoup
 
 ## Usage
 
